@@ -1,1 +1,2 @@
-# SysG-rs-TE
+# SysG-rs-TE 
+Junior/Intern Front-end
